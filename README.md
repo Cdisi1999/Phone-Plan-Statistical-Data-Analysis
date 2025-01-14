@@ -75,21 +75,6 @@ Libraries:
   Matplotlib/Seaborn: Data visualization.
   SciPy: Hypothesis testing.
 
-## Usage
-
-### 1. Clone the repository
-
-  git clone https://github.com/yourusername/megaline-plan-analysis.git
-
-### 2. Install required dependencies
-
-pip install -r requirements.txt
-
-### 3. Open the Jupyter Notebook and follow along:
-
-jupyter notebook Megaline_Plan_Analysis.ipynb
-
-
 ## Dataset Description
 
 ### Users Table:
